@@ -17,7 +17,7 @@ setTimeout(function () {
 function greeting(name) {
   console.log(`Hola ${name}`);
 }
-setTimeout(greeting, 2000, "rildo");
+setTimeout(greeting, 2000, "Rildo");
 
 /* TABLA*/
 /* function sum(num1, num2) {
